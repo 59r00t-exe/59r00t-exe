@@ -14,26 +14,38 @@
 
 ---
 
-## 🛠️ [ CAPABILITIES_MATRIX ]
+## 🛠️ [ INTERACTIVE_MODULES ]
+
+<details>
+<summary><b>📂 Expand: CAPABILITIES_MATRIX (Tech Stack)</b></summary>
+<br />
 
 ### 🔐 Security & OS
 `Kali Linux` • `Ubuntu` • `Wireshark` • `Metasploit` • `Nmap` • `Burp Suite`
 
 ### 🐍 Automation & Logic
 `Python` • `Bash` • `Git` • `YAML` • `JSON` • `PowerShell`
+</details>
 
----
-
-## 📊 [ SYSTEM_METRICS ]
-
+<details>
+<summary><b>📊 Expand: SYSTEM_METRICS (Live Stats)</b></summary>
+<br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=59r00t-exe&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="59r00t-exe stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=59r00t-exe&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Langs" />
 </p>
+</details>
 
----
-
-## 📡 [ SIGNAL_OUTPUT ]
+<details>
+<summary><b>📡 Expand: SIGNAL_OUTPUT (Connectivity)</b></summary>
+<br />
 - **Status:** `ONLINE`
 - **Primary Focus:** Offensive Security & Automation
 - **Contact:** [@59r00t-exe](https://github.com/59r00t-exe)
+</details>
+
+---
+
+## 🕒 [ LIVE_ACTIVITY ]
+*The system is currently monitoring active repositories...*
+`[ Pending: First public deployment of security tools ]`
