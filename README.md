@@ -1,43 +1,41 @@
-# ⚡ 59r00t.exe // Root Access Granted
+# ⚡ 59r00t.exe <small>Sudo Access Granted</small>
 
-```bash
-[ SYSTEM BOOTING... ]
-> Loading Kernel... OK
-> Initializing Security Modules... OK
-> Establishing Connection to 59r00t-exe... SUCCESS
-> Welcome, Operator.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Sourcing+Security+Payloads...;Analyzing+Network+Vulnerabilities...;Executing+Python+Automation...;Maintaining+Root+Access..." alt="Typing SVG" />
+</p>
+
+## 🛰️ [ CORE_DASHBOARD ]
+
+```text
+  IDENTIFICATION: 59r00t.exe
+  STATUS: Cyber Security Student
+  OBJECTIVE: Securing the digital frontier through automation & analysis.
 ```
-
-## 👤 About Me
-I am a **Cyber Security Student** focused on the intersection of system administration, offensive security, and automation. My goal is to develop and analyze resilient systems to secure the digital frontier.
 
 ---
 
-## 🛠️ [ MODULES: TECH STACK ]
+## 🛠️ [ CAPABILITIES_MATRIX ]
 
 ### 🔐 Security & OS
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C55?style=for-the-badge&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1E9B9B?style=for-the-badge&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-4EB1E2?style=for-the-badge)
+`Kali Linux` • `Ubuntu` • `Wireshark` • `Metasploit` • `Nmap` • `Burp Suite`
 
-### 🐍 Development & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05062?style=for-the-badge&logo=git&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB11C3?style=for-the-badge) ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge)
+### 🐍 Automation & Logic
+`Python` • `Bash` • `Git` • `YAML` • `JSON` • `PowerShell`
 
 ---
 
 ## 📊 [ SYSTEM_METRICS ]
 
-### 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=59r00t-exe&theme=tokyonight)
-
-### 📈 Stats & Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=59r00t-exe&show_icons=true&theme=tokyonight&hide_border=true" alt="59r00t-exe stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=59r00t-exe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=59r00t-exe&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="59r00t-exe stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=59r00t-exe&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Langs" />
 </p>
 
 ---
 
-## 📬 [ CONNECTION ]
-- **GitHub:** [@59r00t-exe](https://github.com/59r00t-exe)
-- **Focus:** *Developing secure, automated and resilient systems.*
+## 📡 [ SIGNAL_OUTPUT ]
+- **Status:** `ONLINE`
+- **Primary Focus:** Offensive Security & Automation
+- **Contact:** [@59r00t-exe](https://github.com/59r00t-exe)
 
 `root@kali:~# _`
