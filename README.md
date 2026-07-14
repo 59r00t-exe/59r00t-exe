@@ -37,5 +37,3 @@
 - **Status:** `ONLINE`
 - **Primary Focus:** Offensive Security & Automation
 - **Contact:** [@59r00t-exe](https://github.com/59r00t-exe)
-
-`root@kali:~# _`
