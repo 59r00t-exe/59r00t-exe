@@ -36,14 +36,3 @@ Git         [██████████████████░░]  88% 
 ```
 
 ---
-
-root@59r00t:~# **ls -la /opt/arsenal/**
-
-| Repo | Type | Description |
-|:---|:---|:---|
-| `log-analyzer` | 🔴 Red Team | Real-time SSH intrusion detection & IP threat scoring |
-| `lynis-automation` | 🔵 Blue Team | Automated Linux hardening audits against CIS benchmarks |
-| `deep-research` | 🟡 Intel | Triangulated threat intelligence reports (Brave + X API) |
-| `dotfiles` | ⚙️ Config | Personal Linux environment configurations |
-
----
